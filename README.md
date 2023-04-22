@@ -8,6 +8,8 @@
   <img src="./down.png"/>
   <br>
   <img src="./privacy.jpeg"/>
+  <br>
+  <img src="./jojo.png" width="1280" height="720" style="image-rendering: pixelated;">
 <p>
 
 <span>down by <a href="https://www.deviantart.com/alexthetetrisfan/gallery">alexthetetrisfan</a></span>
