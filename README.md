@@ -5,6 +5,8 @@
   <br>
   <img src="./name on thing.jpg"/>
   <br>
+  <img src="./pot_of_greed.webp"/>
+  <br>
   <img src="./down.png"/>
   <br>
   <img src="./privacy.jpeg"/>
